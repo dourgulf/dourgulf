@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dawenhing
 - 👀 I’m interested in iOS development
-- 🌱 I’m currently learning Swift
+- 🌱 I'm now expanding my development area with AI.
 
 <!---
 dourgulf/dourgulf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
